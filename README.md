@@ -6,5 +6,6 @@
 > ## Placeholder
 ...
 
+![Logo ercilla](img/logo.webp)
 ---
 ###### *Copyright 2025, mpgiker06. Todos los derechos reservados.
